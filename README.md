@@ -1,7 +1,7 @@
 
 # 📚 School CMS / Blog Project
 
-![Banner](https://via.placeholder.com/1200x400?text=School+CMS+Project)
+![Banner]([https://via.placeholder.com/1200x400?text=School+CMS+Project](https://github.com/Subhasish94/school-blog/blob/main/src/Banner.png))
 
 ## 🚀 Project Overview
 
