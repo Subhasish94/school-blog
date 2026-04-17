@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 # 📚 School CMS / Blog Project
 
 ![Banner](https://via.placeholder.com/1200x400?text=School+CMS+Project)
@@ -58,12 +56,52 @@ npm run dev
 ## 📂 Project Structure
 
 ```
-src/
- ├── components/
- ├── pages/
- ├── sections/
- ├── App.jsx
- └── main.jsx
+school-cms/
+│
+├── public/
+│   └── vite.svg
+│
+├── src/
+│   ├── admin/
+│   │   ├── components/
+│   │   │   ├── AdminLayout.jsx
+│   │   │   └── AdminSidebar.jsx
+│   │   ├── pages/
+│   │   │   ├── AdminDashboard.jsx
+│   │   │   ├── AdminNews.jsx
+│   │   │   ├── AdminBlog.jsx
+│   │   │   ├── AdminPages.jsx
+│   │   │   ├── AdminContacts.jsx
+│   │   │   ├── AdminSettings.jsx
+│   │   │   ├── AdminLogin.jsx
+│   │   │   └── AdminError.jsx
+│   │   └── admin.css
+│   │
+│   ├── frontend/
+│   │   ├── components/
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── Footer.jsx
+│   │   │   ├── HeroSection.jsx
+│   │   │   └── NewsCard.jsx
+│   │   ├── pages/
+│   │   │   ├── HomePage.jsx
+│   │   │   ├── NewsArchive.jsx
+│   │   │   ├── NewsDetail.jsx
+│   │   │   ├── BlogArchive.jsx
+│   │   │   ├── BlogDetail.jsx
+│   │   │   ├── AboutPage.jsx
+│   │   │   └── ContactPage.jsx
+│   │   └── frontend.css
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── .gitignore
 ```
 
 ---
@@ -88,7 +126,7 @@ Pull requests are welcome. For major changes, please open an issue first.
 Created by **Subhasish**
 Feel free to connect for collaboration 🚀
 
----
-
+--
+]
 ⭐ If you like this project, give it a star!
 >>>>>>> e08ee4c (Updated README with banner and content)
