@@ -1,7 +1,7 @@
 
 # 📚 School CMS / Blog Project
 
-![Banner]([https://via.placeholder.com/1200x400?text=School+CMS+Project](https://github.com/Subhasish94/school-blog/blob/main/src/Banner.png))
+![Banner](./src/Banner.png)
 
 ## 🚀 Project Overview
 
@@ -29,19 +29,6 @@ It allows users to create pages, manage content, and dynamically render sections
 * Styling: CSS / Tailwind (optional)
 
 ---
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-![Home](https://via.placeholder.com/800x400?text=Home+Page)
-
-### 📦 Products Section
-
-![Products](https://via.placeholder.com/800x400?text=Products+Section)
-
----
-
 ## ⚙️ Installation
 
 ```bash
@@ -88,10 +75,6 @@ npm run dev
 │   │   │   └── ContactPage.jsx
 │   │   └── frontend.css
 │   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-
 ```
 
 ---
