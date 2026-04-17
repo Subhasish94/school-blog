@@ -56,11 +56,6 @@ npm run dev
 ## 📂 Project Structure
 
 ```
-school-cms/
-│
-├── public/
-│   └── vite.svg
-│
 ├── src/
 │   ├── admin/
 │   │   ├── components/
@@ -96,12 +91,7 @@ school-cms/
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── index.css
-│
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
-└── .gitignore
+
 ```
 
 ---
